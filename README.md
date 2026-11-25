@@ -246,8 +246,16 @@ Más detalle: [`docs/DIFICULTADES_Y_SOLUCIONES.md`](docs/DIFICULTADES_Y_SOLUCION
 - IP local puede cambiar; se recomienda reserva DHCP.
 - Futuras mejoras: historial de telemetría, mejor lógica de navegación, carcasa, monitor de batería, autenticación de panel y respuestas mediante un modelo conversacional conectado.
 
-## Seguridad
-No publiques credenciales, contraseñas, tokens ni claves. No expongas el puerto TCP ni Streamlit directamente a Internet. Prueba motores con el chasis elevado y mantén una zona libre.
+---
 
-## Autor y licencia
-Completa este apartado con tu nombre, programa académico, institución y fecha de presentación. El archivo `LICENSE` incluido es MIT; confirma que sea compatible con las condiciones académicas y con las librerías utilizadas.
+## Evidencias del funcionamiento del proyecto
+
+### Evidencia 1. Funcionamiento general del robot
+
+Video de evidencia donde se observa el robot JARVIS en funcionamiento, demostrando sus movimientos y respuesta a los comandos de control.
+
+https://drive.google.com/file/d/1sU2CCPlEUN_XIyjGNrfXkUa4IQ8Yu5zy/view?usp=sharing
+
+https://drive.google.com/file/d/1frj4XTzMue7yBoiGkSDOSpW7MgTYMx2I/view?usp=sharing
+
+
